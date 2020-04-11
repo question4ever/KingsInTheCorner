@@ -1,0 +1,9 @@
+com\rtd\engine\card\AppTest.class
+com\rtd\engine\card\CardTest.class
+com\rtd\engine\card\GameTest.class
+com\rtd\engine\card\HandTest.class
+com\rtd\engine\card\BoardTest.class
+com\rtd\engine\card\PileTest.class
+com\rtd\engine\card\GameTest$MockGame.class
+com\rtd\engine\card\DeckTest.class
+com\rtd\engine\card\PlayerTest.class
