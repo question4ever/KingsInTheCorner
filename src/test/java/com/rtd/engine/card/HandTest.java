@@ -4,7 +4,10 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import java.util.ArrayList;
 
-import com.rtd.engine.card.Card.Suit;
+import com.rtd.engine.card.old.Card;
+import com.rtd.engine.card.old.Deck;
+import com.rtd.engine.card.old.Hand;
+import com.rtd.engine.card.old.Card.Suit;
 
 public class HandTest{
 

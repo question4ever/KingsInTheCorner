@@ -3,8 +3,7 @@ package com.rtd.engine.card;
 import org.junit.Test;
 import org.junit.Before;
 import static org.junit.Assert.*;
-
-import com.rtd.engine.card.Card.Suit;
+import com.rtd.engine.card.old.*;
 
 public class DeckTest{
 

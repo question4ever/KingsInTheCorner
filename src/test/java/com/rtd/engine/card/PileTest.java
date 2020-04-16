@@ -4,8 +4,8 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;
-
-import com.rtd.engine.card.Card.Suit;
+import com.rtd.engine.card.old.*;
+import com.rtd.engine.card.old.Card.Suit;
 
 import org.junit.Before;
 

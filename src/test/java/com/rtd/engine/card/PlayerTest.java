@@ -1,6 +1,7 @@
 package com.rtd.engine.card;
 import org.junit.Before;
 import org.junit.Test;
+import com.rtd.engine.card.old.*;
 import static org.junit.Assert.*;
 
 public class PlayerTest {

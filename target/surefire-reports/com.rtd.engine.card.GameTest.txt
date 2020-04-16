@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.rtd.engine.card.GameTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in com.rtd.engine.card.GameTest
+testNextState(com.rtd.engine.card.GameTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The method nextState() is undefined for the type GameTest.MockGame
+	State cannot be resolved or is not a field
+	The method getState() is undefined for the type GameTest.MockGame
+
+	at com.rtd.engine.card.GameTest.testNextState(GameTest.java:12)
+
